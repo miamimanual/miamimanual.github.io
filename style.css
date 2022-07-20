@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  text-rendering: optimizeLegibility;
+  line-height: 1.5;
+  background-color: #f5eddc;
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  color: #a2b5bb;
+}
