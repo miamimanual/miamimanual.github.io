@@ -11,9 +11,11 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-p {
-  color: #a2b5bb;
-  font-weight: 700;
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
 }
 
 footer {
@@ -21,4 +23,14 @@ footer {
   bottom: 0;
   width: 100%;
   height: 2.5rem;
+}
+
+p {
+  color: #a2b5bb;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: #eb1d36;
 }
